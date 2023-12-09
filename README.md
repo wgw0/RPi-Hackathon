@@ -2,7 +2,7 @@
 
 ## Our Project
 
-We set out to create a Network Monitor and Adblocker on a Raspberry Pi 4b.
+We set out to create a project that involved a Raspberry Pi 4b.
 
 ## The Team
 
